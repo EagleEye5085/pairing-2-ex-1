@@ -1,4 +1,4 @@
 arrays = ["billy", "jim", "lisa", "tony", "megan"]
-arrays [2]
-arrays [4]
-arrays [0]
+puts[2]
+puts [4]
+arrays[0]
